@@ -1,6 +1,6 @@
 # Hey, I'm Ankit Chaubey 👋
 
-**DevSecOps Lead & Platform Engineer** · 14+ years · Mumbai, IN
+**DevSecOps Lead & Platform Engineer** · 14+ years · Noida, IN
 
 > I architect AI-augmented DevOps platforms on AWS EKS — where security, automation, and developer experience meet at scale. Currently at **Sopra Banking Software**.
 
